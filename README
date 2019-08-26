@@ -17,3 +17,5 @@ tvm_linker message ff59c91d08a613b3c6dfe9f969e9a6cdcceaca62b0dd8aa89e559a89a6d28
  
  5) в клиенте первым проверяем свой аккаунт примерно следующей командой
  getaccount 0:ff59c91d08a613b3c6dfe9f969e9a6cdcceaca62b0dd8aa89e559a89a6d28b9e
+ 
+ 6) 
